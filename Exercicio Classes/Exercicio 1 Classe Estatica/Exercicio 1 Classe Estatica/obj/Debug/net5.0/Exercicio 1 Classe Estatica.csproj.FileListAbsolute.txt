@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\ref\Exercicio 1 Classe Estatica.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\bin\Debug\net5.0\Exercicio 1 Classe Estatica.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.csprojAssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\ref\Exercicio 1 Classe Estatica.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 1 Classe Estatica\Exercicio 1 Classe Estatica\obj\Debug\net5.0\Exercicio 1 Classe Estatica.genruntimeconfig.cache

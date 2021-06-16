@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.csproj.AssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.exe
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.dll
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\ref\Controle Funcionários.dll
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\bin\Debug\net5.0\Controle Funcionários.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.dll
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\ref\Controle Funcionários.dll
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio List\Controle Funcionários\Controle Funcionários\obj\Debug\net5.0\Controle Funcionários.genruntimeconfig.cache

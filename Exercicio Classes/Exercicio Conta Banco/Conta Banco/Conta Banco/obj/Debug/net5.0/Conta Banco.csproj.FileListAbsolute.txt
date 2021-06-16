@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\ref\Conta Banco.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\bin\Debug\net5.0\Conta Banco.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.csprojAssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\ref\Conta Banco.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Conta Banco\Conta Banco\Conta Banco\obj\Debug\net5.0\Conta Banco.genruntimeconfig.cache

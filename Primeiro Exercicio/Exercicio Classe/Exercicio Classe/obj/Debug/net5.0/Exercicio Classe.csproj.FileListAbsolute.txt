@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.exe
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.deps.json
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.dll
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\ref\Exercicio Classe.dll
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\bin\Debug\net5.0\Exercicio Classe.pdb
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.csprojAssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.dll
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\ref\Exercicio Classe.dll
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.pdb
+F:\Source\Programação Orientada a Objetos\Primeiro Exercicio\Exercicio Classe\Exercicio Classe\obj\Debug\net5.0\Exercicio Classe.genruntimeconfig.cache

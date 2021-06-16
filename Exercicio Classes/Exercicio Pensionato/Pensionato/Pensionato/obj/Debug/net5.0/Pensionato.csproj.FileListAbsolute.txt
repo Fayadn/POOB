@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\ref\Pensionato.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\bin\Debug\net5.0\Pensionato.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.csprojAssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\ref\Pensionato.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio Pensionato\Pensionato\Pensionato\obj\Debug\net5.0\Pensionato.genruntimeconfig.cache

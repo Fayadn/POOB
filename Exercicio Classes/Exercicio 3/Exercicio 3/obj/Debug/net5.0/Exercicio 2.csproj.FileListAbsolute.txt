@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\ref\Exercicio 2.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\bin\Debug\net5.0\Exercicio 2.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.csprojAssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\ref\Exercicio 2.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Classes\Exercicio 3\Exercicio 3\obj\Debug\net5.0\Exercicio 2.genruntimeconfig.cache
