@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\ref\Arquivos.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.csproj.AssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\ref\Arquivos.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Arquivos\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.genruntimeconfig.cache
