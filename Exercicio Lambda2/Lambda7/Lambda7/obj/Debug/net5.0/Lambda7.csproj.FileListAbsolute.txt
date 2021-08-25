@@ -1,0 +1,16 @@
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.exe
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.deps.json
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.runtimeconfig.json
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.runtimeconfig.dev.json
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\ref\Lambda7.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\bin\Debug\net5.0\Lambda7.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.csproj.AssemblyReference.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.AssemblyInfoInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.AssemblyInfo.cs
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.csproj.CoreCompileInputs.cache
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\ref\Lambda7.dll
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.pdb
+F:\Source\Programação Orientada a Objetos\Exercicio Lambda2\Lambda7\Lambda7\obj\Debug\net5.0\Lambda7.genruntimeconfig.cache
